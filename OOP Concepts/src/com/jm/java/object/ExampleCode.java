@@ -1,5 +1,5 @@
 package com.jm.java.object;
 
-public class TestCode {
-	
+public class ExampleCode {
+
 }
